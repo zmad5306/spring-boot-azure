@@ -36,7 +36,7 @@ spring.datasource.password=<db password>
 spring.datasource.driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver
 spring.jpa.hibernate.ddl-auto=create-drop
 azure.storage.connection-string=DefaultEndpointsProtocol=https;AccountName=<storage account name>;AccountKey=<access key>
-azure.storage.share-name=spring-boot
+azure.storage.share-name=<share name>
 ```
 
 ## Commands

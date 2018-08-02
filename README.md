@@ -51,7 +51,7 @@ https://spring.io/guides/gs/spring-boot-for-azure/
 
 `az storage account keys list -g <resource group> -n <storage account>`
 
-`az storage account keys list -g sb-demo -n sbaz`
+`az storage account keys list -g spring-boot-azure -n sbaz`
 
 https://docs.microsoft.com/en-us/cli/azure/storage/account/keys?view=azure-cli-latest
 

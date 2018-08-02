@@ -77,9 +77,9 @@
                     <authentication>
                         <serverId>azure-auth</serverId>
                     </authentication>
-                    <resourceGroup>maven-plugin</resourceGroup>
-                    <appName>maven-web-app-${maven.build.timestamp}</appName>
-                    <region>westus</region>
+                    <resourceGroup>spring-boot-azure</resourceGroup>
+                    <appName>spring-boot-azure-web-app</appName>
+                    <region>eastus</region>
                     <javaVersion>1.8</javaVersion>
                     <deploymentType>ftp</deploymentType>
                     <stopAppDuringDeployment>true</stopAppDuringDeployment>
